@@ -1,1 +1,2 @@
-# chess-game-c--qt
+# chess-game
+ 
